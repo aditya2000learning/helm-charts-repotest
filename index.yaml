@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   default-chart:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2023-11-29T23:17:36.599623214Z"
+    description: A Helm chart for Kubernetes
+    digest: 92fbc7d8a04bf99a86408999e1ec617b5e4cc1871193a97091b9bf89fd6d2756
+    name: default-chart
+    type: application
+    urls:
+    - https://github.com/aditya2000learning/helm-charts-repotest/releases/download/default-chart-0.2.0/default-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2023-11-29T23:13:03.8178331Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/aditya2000learning/helm-charts-repotest/releases/download/default-chart-0.1.0/default-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-29T23:13:03.817843399Z"
+generated: "2023-11-29T23:17:36.599635537Z"
